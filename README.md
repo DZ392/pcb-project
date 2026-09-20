@@ -36,3 +36,5 @@ How to Use It
 * Size: about 75 mm × 65 mm
 * Board shape: custom butterfly
 * External power: not required
+<img width="1128" height="870" alt="image" src="https://github.com/user-attachments/assets/54447e9b-9480-4cd0-99a8-b61fadabe099" />
+<img width="1232" height="967" alt="image" src="https://github.com/user-attachments/assets/0d66470d-f454-4050-9c6f-50b822a73103" />
