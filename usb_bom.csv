@@ -1,0 +1,10 @@
+﻿Reference,Quantity,Value/Function,Manufacturer,Manufacturer Part Number,LCSC Part Number
+U2,1,USB 2.0 hub controller,CoreChips,SL2.1s,C2684433
+U3,1,USB-C connector,G-Switch,GT-USB-7010ASV,C2988369
+USB1,1,"USB-C female, 16-pin",Korean Hroparts Elec,TYPE-C-31-M-12,C165948
+USB7,1,"USB-A female, right-angle",SHOU HAN,AF 90 WJDG,C456018
+USB10,1,USB-A male,Korean Hroparts Elec,U-G-O4DD-W-1,C98125
+R1 R2,2,"56 kΩ ±1%, 0402",UNI-ROYAL,0402WGF5602TCE,C25796
+R6,1,"5.1 kΩ ±1%, 0402",UNI-ROYAL,0402WGF5101TCE,C25905
+C1 C3 C4 C6 C11 C18 C19,7,"1 µF, 25 V, X5R, 0402",Samsung Electro-Mechanics,CL05A105KA5NQNC,C52923
+C2 C5 C7,3,"100 nF, 50 V, X7R, 0402",Samsung Electro-Mechanics,CL05B104KB54PNC,C307331
